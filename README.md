@@ -14,7 +14,7 @@ This project implements a **real-time lane detection and driving decision system
 * **Obstacle Detection**: Detects potential road obstacles using edge detection and Hough lines.
 * **Frame Skipping**: Improves performance by processing every Nth frame.
 
-## 🛠Technologies Used
+## Technologies Used
 
 * Python 3.x
 * OpenCV
@@ -102,10 +102,11 @@ You will see a visualization window with:
 ---
 
 ## Sample Output
+![Screenshot (208)](https://github.com/user-attachments/assets/5671cde5-c83a-4621-bcec-353ee8673de2)
+![Screenshot (209)](https://github.com/user-attachments/assets/67749245-1026-44b2-af30-8ce78713c40b)
+![Screenshot (210)](https://github.com/user-attachments/assets/ba43964e-1a12-4434-b698-0d776efbac31)
 
-![image](https://github.com/user-attachments/assets/b5404ff8-a4bf-47e1-8ef0-bdd512f4931f)
-![image](https://github.com/user-attachments/assets/4e8b0444-3fe8-4e65-8289-46742e5c353a)
-![image](https://github.com/user-attachments/assets/e407c722-8433-4039-8c37-80e2e8828044)
+
 
 ##  Notes
 
